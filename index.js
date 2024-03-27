@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🐇Modding"];
+const statusMessages = ["🐇Happy Easter!"];
 
 
 let currentIndex = 0;
