@@ -4,7 +4,7 @@
  ██████╔╝░░░██║░░░░╚███╔╝░          
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
+ ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝         
   GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
   DISCORD SERVER : https://discord.gg/FUEHs7RCqz
   YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
