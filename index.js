@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🐇MODDING!"];
+const statusMessages = ["🐇I'm Verified!"];
 
 
 let currentIndex = 0;
